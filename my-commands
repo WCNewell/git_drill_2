@@ -1,0 +1,10 @@
+ 1093  touch index.html readme.md
+ 1094  git init
+ 1095  git add index.html assets/styles.css
+ 1096  git commit -m "initial commit"
+ 1097  git remote add origin https://github.com/WCNewell/git_drill_2.git
+ 1098  git push -u origin master
+ 1099  git add .
+ 1100  git commit -m "add readme"
+ 1101  git push
+ 1102  git pull
